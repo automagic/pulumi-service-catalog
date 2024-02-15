@@ -1,0 +1,11 @@
+[{
+    "name": "aws-cs-webserver",
+    "description": "Autoscaling webserver implementation",
+    "repository_url": "https://github.com/automagic/aws-cs-webserver.git",
+    "branch": "main"
+}, {
+    "name": "aws-vpc-sared",
+    "description": "Shared VPC infrastructure",
+    "repository_url": "https://github.com/pulumi-initech/aws-vpc-shared.git",
+    "branch": "main"
+}]

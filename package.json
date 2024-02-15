@@ -1,0 +1,14 @@
+{
+  "name": "pulumi-service-catalog",
+  "description": "a single page application website using the backend for frontend (BFF) pattern, using AWE s3/cloudfront and lambda",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@pulumi/aws": "6.13.3",
+    "@pulumi/awsx": "^2.4.0",
+    "@pulumi/pulumi": "*"
+  }
+}

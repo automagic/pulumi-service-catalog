@@ -1,0 +1,24 @@
+{
+  "name": "deployment-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@pulumi/pulumi": "^3.104.2",
+    "@types/aws-lambda": "^8.10.133",
+    "@types/uuid": "^9.0.8",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^2.1549.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "typescript": "^5.3.3"
+  }
+}

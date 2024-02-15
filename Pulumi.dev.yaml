@@ -1,0 +1,7 @@
+config:
+  aws:region: us-west-2
+  pulumi-service-catalog:SERVICE_PASS:
+    secure: AAABANZ38ES1vvut1bZkt2M6W1fAXaV29Oyz6ZY7jOWYUhvCBAVeKoDM1nB1ZGH+sLdmv1m15mU4HgCE8VvE/xhC79beDVHG
+  pulumi-service-catalog:SERVICE_USER: automagic
+environment:
+  - aws
